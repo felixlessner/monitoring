@@ -21,10 +21,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Secret Site
     url: $SECRET_SITE_MAIN
-  - name: Test Seite
-    url: https://example.invalid
-  - name: Test Site Down
-    url: https://example.test
+#  - name: Test Seite
+#    url: https://example.invalid
+#  - name: Test Site Down
+#    url: https://example.test
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
