@@ -77,16 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/example.invalid.ico",
     "slug": "test-seite",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "61.64%",
+    "uptimeDay": "61.64%",
+    "uptimeWeek": "61.64%",
+    "uptimeMonth": "61.64%",
+    "uptimeYear": "61.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-30": 0
+    }
   }
 ]
