@@ -21,6 +21,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Secret Site
     url: $SECRET_SITE_MAIN
+    __dangerous__body_degraded: "noindex"
 #  - name: Test Seite
 #    url: https://example.invalid
 #  - name: Test Site Down
