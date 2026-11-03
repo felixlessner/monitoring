@@ -2,7 +2,6 @@
 owner: felixlessner # Your GitHub organization or username, where this repository lives
 repo: monitoring # The name of this repository
 secrets:
-  - SECRET_SITE_MAIN
   - NOTIFICATION_EMAIL
   - NOTIFICATION_EMAIL_FROM
   - NOTIFICATION_EMAIL_TO
@@ -19,8 +18,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE_MAIN
+  - name: Berendsohn
+    url: https://www.berendsohn.de
     __dangerous__body_degraded: "noindex"
 #  - name: Test Seite
 #    url: https://example.invalid
